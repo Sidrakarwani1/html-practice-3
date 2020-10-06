@@ -1,0 +1,29 @@
+.container{
+    /* display: flex;
+    justify-content: space-between; */
+
+    background-color: crimson;
+    
+}
+.container1{
+  
+    background-color: aqua;
+float: left;
+width: 30%;
+}
+.container2{
+    /* height: 50px; */
+    background-color: blueviolet;
+  float: left;
+    width: 30%;
+    
+
+}
+.container3{
+    /* height: 50px; */
+    background-color: chartreuse;
+    float: right;
+    width: 40%;
+
+
+}
